@@ -74,6 +74,6 @@ Food-Delivery-SQL-Analytics/
 │   ├── business_analysis.sql
 │   └── advanced_queries.sql
 │
-├── screenshots/
+├── Screenshot/
 │
 └── README.md
