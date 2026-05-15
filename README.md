@@ -56,24 +56,3 @@ This is an industry-level SQL Data Analytics project built using MySQL Workbench
 
 ---
 
-# Project Structure
-
-```text
-Food-Delivery-SQL-Analytics/
-│
-├── datasets/
-│   ├── customers.csv
-│   ├── restaurants.csv
-│   ├── orders.csv
-│   ├── delivery_agents.csv
-│   └── deliveries.csv
-│
-├── sql_queries/
-│   ├── database_schema.sql
-│   ├── data_cleaning.sql
-│   ├── business_analysis.sql
-│   └── advanced_queries.sql
-│
-├── Screenshot/.png
-│
-└── README.md
